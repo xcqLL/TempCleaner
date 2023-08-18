@@ -1,0 +1,13 @@
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\bin\Debug\Temporary Files Cleaner.exe.config
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\bin\Debug\Temporary Files Cleaner.exe
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\bin\Debug\Temporary Files Cleaner.pdb
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\bin\Debug\Guna.UI2.dll
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.csproj.AssemblyReference.cache
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary_Files_Cleaner.Properties.Resources.resources
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.csproj.GenerateResource.cache
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.csproj.CopyComplete
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.exe
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary Files Cleaner.pdb
+C:\Users\notsh\source\repos\Temporary Files Cleaner\Temporary Files Cleaner\obj\Debug\Temporary_Files_Cleaner.TempCleaner.resources
